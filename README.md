@@ -1,7 +1,7 @@
 ### Hello😊
 #### My name is Yeongjin.
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeongjin2024)](https://solved.ac/yeongjin2024/)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=appsky1888)](https://solved.ac/appsky1888/)
 <p>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/>
